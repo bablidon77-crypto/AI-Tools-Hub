@@ -1,0 +1,6 @@
+{
+  "name": "AI Tools Hub",
+  "description": "Smart AI & Online Tools, All in One Place. Fast, browser-based tools for AI resumes, image compression, PDF operations, QR codes, and AI writing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
